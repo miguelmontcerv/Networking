@@ -1,6 +1,4 @@
-# Networking
-## Monteros Cervantes Miguel Angel
-### Computer Networks
+# Computer Networks
   **Score: -**  
   **Teacher: Axel Ernesto Moreno Cervantes**
 
