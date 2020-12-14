@@ -10,11 +10,4 @@
   **Score: -**  
   **Teacher: -**
 
-This repository includes the codes and practics created in the subject *Computer Networks*, which was taken in the *2020-2 semester* at *Escuela Superior de Cómputo* of the *Instituto Politécnico Nacional*, in **Mexico.**
-
-(Basically) the topics found in this repository are:
-  * Network Layer Protocols
-  * Upper Layer Protocols
-  * Application Layer Protocols
-  * LAN Network Design
-  * Routing
+In the *Escuela Superior de Cómputo* three subjects are studied within the area of *computer networks*, this repository contains the information, practices and codes developed in these three subjects, the objective is to share everything I have learned in these interesting subjects ( they are my favorites in school).
