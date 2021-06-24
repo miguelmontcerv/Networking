@@ -1,3 +1,0 @@
-# **Proyecto wget**
-
-En construcción
